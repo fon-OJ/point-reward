@@ -3,11 +3,11 @@
 ระบบสะสมแต้มแลกของรางวัล สำหรับการฝึกใช้งาน Vue 3 + PHP API แบบ mock (ไม่มีฐานข้อมูล)
 
 ##  Users
-email: jone@example.com
-password: 1234
+email: jone@example.com <br>
+password: 1234<br>
 
-email: jane@example.com
-password: 1234
+email: jane@example.com<br>
+password: 1234<br>
 
 ## Top Up Code
   1. BONUS50 = 50
