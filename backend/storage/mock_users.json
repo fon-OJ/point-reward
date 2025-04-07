@@ -1,0 +1,20 @@
+[
+    {
+        "email": "orasa@example.com",
+        "password": "$2y$12$.r8hKEBToiG8NEU1vExAy.ETWB4Hk5sjVk5KFdFdCPeGHPi978HvG",
+        "name": "Orasa",
+        "points": 175
+    },
+    {
+        "email": "jone@example.com",
+        "password": "$2y$12$.r8hKEBToiG8NEU1vExAy.ETWB4Hk5sjVk5KFdFdCPeGHPi978HvG",
+        "name": "Jone Doe",
+        "points": 340
+    },
+    {
+        "email": "jane@example.com",
+        "password": "$2y$10$wXxqdwjdZ2DLO7i9.JTLQ.0yzyAfK28TwEX4dovgyB1EoJ5PKsAjq",
+        "name": "Jane Smith",
+        "points": 200
+    }
+]
