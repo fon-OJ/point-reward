@@ -41,4 +41,21 @@ password: 1234<br>
 
 ```bash
 docker-compose up --build
+```
 
+###  2. เปิดใช้งานบน browser
+Frontend: http://localhost:3000
+Backend: http://localhost:8000
+
+### 3. ตัวอย่าง API Endpoint
+
+| Method | URL                         | Description             |
+|--------|-----------------------------|-------------------------|
+| POST   | `/login`                    | เข้าสู่ระบบ             |
+| GET    | `/me`                       | ข้อมูลผู้ใช้งานปัจจุบัน |
+| GET    | `/rewards`                 | รายการของรางวัลทั้งหมด   |
+| POST   | `/rewards/redeem`          | แลกของรางวัล             |
+| GET    | `/rewards/categories`      | ประเภทของรางวัลทั้งหมด   |
+| GET    | `/rewards/categories/:cat` | ของรางวัลตามประเภท       |
+| POST   | `/topup`                   | เติมแต้มด้วยรหัส         |
+| GET    | `/topup/history`           | ดูประวัติการเติมแต้ม     |
